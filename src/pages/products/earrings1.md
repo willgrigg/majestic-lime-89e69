@@ -2,7 +2,7 @@
 id: '1'
 title: Plant earrings
 description: This is a filler description.
-price: '49.40'
+price: '5.00'
 order: 1
 featured: true
 template: product
