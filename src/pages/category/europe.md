@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: bracelets
 order: 3
 template: category
 ---
