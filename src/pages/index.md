@@ -19,7 +19,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: My Favorites
+    title: Some of My Favorites!
     icon: true
     light_title: true
     featured_products:
