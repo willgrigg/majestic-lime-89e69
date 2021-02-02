@@ -32,17 +32,6 @@ sections:
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
-  - type: testimonials_section
-    section_id: testimonials_section
-    title: Testimonials
-    testimonials:
-      - author:
-          name: John Dope
-          location: 'Colorado, USA'
-        text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
