@@ -13,5 +13,5 @@ sections:
       - src/pages/products/plant5.md
       - src/pages/products/plant7.md
 template: store
-white_header: true
+white_header: false
 ---
