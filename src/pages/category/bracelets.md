@@ -1,5 +1,5 @@
 ---
 title: Bracelets
-order: 1
+order: 2
 template: category
 ---
