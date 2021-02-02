@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: ''
 order: 4
 template: category
 ---
