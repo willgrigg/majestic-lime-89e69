@@ -16,18 +16,6 @@ sections:
           any bugs, open an issue, and we’ll fire our junior dev. Just kidding
           Michael, you’re good.
         image: images/stand.png
-      - title: lorem-ipsum
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
 template: advanced
 white_header: true
 ---
