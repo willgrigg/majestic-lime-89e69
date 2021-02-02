@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 page_css_class: gray-background
 sections:
   - type: bulletpoints_section
