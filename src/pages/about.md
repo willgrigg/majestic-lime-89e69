@@ -17,4 +17,5 @@ sections:
           Michael, you’re good.
         image: images/nan_talk.jpg
 template: advanced
+white_header: true
 ---
