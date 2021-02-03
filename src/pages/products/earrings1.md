@@ -1,6 +1,6 @@
 ---
 id: '1'
-title: Pink glitter heart earrings
+title: Pink Glitter Heart Earrings
 description: Statement earrings with pink glitter hearts and silver accents.
 price: '10.00'
 order: 1
