@@ -21,7 +21,6 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - src/pages/products/plant5.md
       - src/pages/products/earrings1.md
   - type: featured_categories_section
     section_id: featured_categories_section
