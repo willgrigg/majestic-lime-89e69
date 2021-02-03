@@ -9,7 +9,7 @@ sections:
     content: |
       # *...and handcrafted with love.*
 
-      Check out my stuff below!
+      Take a look at my current collection!
     actions:
       - title: See all items
         url: /store
