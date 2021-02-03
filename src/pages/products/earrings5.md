@@ -1,6 +1,6 @@
 ---
 id: '5'
-title: Valentine Butterfly Earrings
+title: Heart Doily Earrings
 description: '[DESCRIPTION N/A]'
 price: '10.00'
 order: 1
