@@ -17,7 +17,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Some of My Favorites!
+    title: Some of My Products
     icon: true
     light_title: true
     featured_products:
