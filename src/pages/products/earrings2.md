@@ -1,7 +1,7 @@
 ---
 id: '2'
 title: Red heart earrings
-description: ''
+description: Statement earrings with red hearts and natural wood accents.
 price: '10.00'
 order: 1
 featured: true
