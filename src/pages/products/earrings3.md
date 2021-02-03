@@ -1,6 +1,6 @@
 ---
 id: '3'
-title: Dollie
+title: 'Doily '
 description: Statement earrings with red hearts and natural wood accents.
 price: '10.00'
 order: 1
