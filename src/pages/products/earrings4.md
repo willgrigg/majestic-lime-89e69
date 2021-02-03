@@ -1,9 +1,7 @@
 ---
 id: '4'
 title: Valentine Butterfly Earrings
-description: >-
-  Cute pink earrings that resemble the valentines of yesteryear. Wood doilies
-  with white and red accents.
+description: ''
 price: '10.00'
 order: 1
 featured: true
