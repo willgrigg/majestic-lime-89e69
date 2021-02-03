@@ -14,6 +14,7 @@ sections:
         url: /store
         arrow: true
         style: primary
+    background_image: images/knowledgeable-kale.png
   - type: featured_products_section
     section_id: best_sellers_section
     title: Featured Items
