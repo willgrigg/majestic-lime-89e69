@@ -24,5 +24,6 @@ sections:
       - src/pages/products/earrings1.md
       - src/pages/products/earrings2.md
       - src/pages/products/earrings3.md
+      - src/pages/products/earrings6.md
 template: home
 ---
