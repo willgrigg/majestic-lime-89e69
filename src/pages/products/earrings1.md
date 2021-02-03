@@ -1,7 +1,7 @@
 ---
 id: '1'
 title: Pink glitter heart earrings
-description: This is a filler description.
+description: ''
 price: '5.00'
 order: 1
 featured: true
