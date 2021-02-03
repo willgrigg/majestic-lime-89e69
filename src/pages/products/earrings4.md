@@ -1,7 +1,7 @@
 ---
 id: '4'
 title: Valentine Butterfly Earrings
-description: NO DESCRIPTION YET
+description: '[DESCRIPTION N/A]'
 price: '10.00'
 order: 1
 featured: true
