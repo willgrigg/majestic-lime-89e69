@@ -1,7 +1,7 @@
 ---
 id: '2'
 title: Red heart earrings
-description: Statement earrings with pink glitter hearts and silver accents.
+description: ''
 price: '10.00'
 order: 1
 featured: true
