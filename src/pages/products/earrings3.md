@@ -1,7 +1,9 @@
 ---
 id: '3'
 title: Valentine Doily Earrings
-description: Cute pink earrings that resemble the valentines of yesteryear.
+description: >-
+  Cute pink earrings that resemble the valentines of yesteryear. Wood doilies
+  with white and red accents.
 price: '10.00'
 order: 1
 featured: true
