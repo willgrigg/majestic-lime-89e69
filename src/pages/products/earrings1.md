@@ -8,7 +8,7 @@ featured: true
 template: product
 default_original_image: images/plant1-lg.jpg
 category: src/pages/category/jewelry.md
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/3.jpg
 ---
 # Plant earrings
 
