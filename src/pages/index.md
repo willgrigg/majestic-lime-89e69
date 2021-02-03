@@ -22,10 +22,5 @@ sections:
     light_title: true
     featured_products:
       - src/pages/products/earrings1.md
-  - type: featured_categories_section
-    section_id: featured_categories_section
-    featured_categories:
-      - src/pages/category/bigplants.md
-      - src/pages/category/cactuses.md
 template: home
 ---
