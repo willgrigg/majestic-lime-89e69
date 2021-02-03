@@ -6,12 +6,10 @@ sections:
     section_id: hero_section
     background_image: images/thumb_earrings.png
     background_image_opacity: 65
-    content: >
+    content: |
       # *...and handcrafted with love.*
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Check out my stuff below!
     actions:
       - title: See all items
         url: /store
