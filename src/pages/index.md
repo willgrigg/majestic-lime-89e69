@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image_opacity: 50
+    background_image_opacity: 40
     content: |
       # *...and handcrafted with love.*
 
