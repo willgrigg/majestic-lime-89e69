@@ -1,7 +1,7 @@
 ---
 id: '3'
 title: Valentine Doily Earrings
-description: Statement earrings with red hearts and natural wood accents.
+description: 'Cute pink earrings that resemble the valentines of yesteryear. '
 price: '10.00'
 order: 1
 featured: true
