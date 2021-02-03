@@ -1,5 +1,5 @@
 ---
-id: '2'
+id: '3'
 title: Red heart earrings
 description: Statement earrings with red hearts and natural wood accents.
 price: '10.00'
