@@ -1,5 +1,5 @@
 ---
-id: '1'
+id: '2'
 title: Pink glitter heart earrings
 description: Statement earrings with pink glitter hearts and silver accents.
 price: '10.00'
