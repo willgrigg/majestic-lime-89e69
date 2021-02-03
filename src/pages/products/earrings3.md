@@ -1,6 +1,6 @@
 ---
 id: '3'
-title: 'Doily '
+title: 'VDoily '
 description: Statement earrings with red hearts and natural wood accents.
 price: '10.00'
 order: 1
