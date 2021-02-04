@@ -3,7 +3,7 @@ id: '1'
 title: ' Fun and Flirty Earrings'
 description: >-
   These pink glitter hearts are sure to turn heads. Pair them with your favorite
-  frock and get to flirting! IronMade with Poplar wood and  iron earring hooks
+  frock and get to flirting! IronMade with poplar wood and  iron earring hooks
 price: '10.00'
 order: 1
 featured: true
