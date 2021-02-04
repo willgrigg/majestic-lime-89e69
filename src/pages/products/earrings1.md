@@ -3,8 +3,8 @@ id: '1'
 title: ' Fun and Flirty Earrings'
 description: >-
   These pink glitter hearts are sure to turn heads. Pair them with your favorite
-  frock and get to flirting! IronMade with Pol Earring Hooks, Cadmium Free &
-  Lead Free
+  frock and get to flirting! IronMade with Poplar wood and  Earring Hooks,
+  Cadmium Free & Lead Free
 price: '10.00'
 order: 1
 featured: true
