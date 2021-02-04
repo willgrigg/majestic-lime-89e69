@@ -1,7 +1,7 @@
 ---
 id: '2'
 title: Forever and Always Earrings
-description: Statement earrings with red hearts and natural wood accents.
+description: Classic red hearts to go with any valentines outfit.
 price: '10.00'
 order: 1
 featured: true
