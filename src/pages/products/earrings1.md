@@ -1,6 +1,6 @@
 ---
 id: '1'
-title: ' Earrings'
+title: ' Fun and Flirty Earrings'
 description: Statement earrings with pink glitter hearts and silver accents.
 price: '10.00'
 order: 1
