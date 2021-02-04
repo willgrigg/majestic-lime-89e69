@@ -3,7 +3,7 @@ id: '1'
 title: ' Fun and Flirty Earrings'
 description: >-
   These pink glitter hearts are sure to turn heads. Pair them with your
-  favoruite frock and get to flirting
+  favoruite frock and get to flirting!
 price: '10.00'
 order: 1
 featured: true
