@@ -1,7 +1,7 @@
 ---
 id: '1'
 title: ' Fun and Flirty Earrings'
-description: These pink glitt
+description: 'These pink glitte to '
 price: '10.00'
 order: 1
 featured: true
