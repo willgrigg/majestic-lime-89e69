@@ -1,7 +1,7 @@
 ---
 id: '1'
 title: ' Fun and Flirty Earrings'
-description: 'These pink glitte to '
+description: 'These pink glitter hearts are sure to turn heads. '
 price: '10.00'
 order: 1
 featured: true
