@@ -1,7 +1,7 @@
 ---
 id: '2'
 title: Forever and Always Earrings
-description: Classic red hearts to go with any outfit.
+description: Classic red hearts that will  with any outfit.
 price: '10.00'
 order: 1
 featured: true
