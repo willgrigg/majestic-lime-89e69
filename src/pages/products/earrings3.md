@@ -6,7 +6,7 @@ description: >-
   accessories. Each pair is uniquely hand painted with red and white heart
   accents on a sweet pink background. Made with poplar wood and  iron earring
   hooks.
-price: '10.00'
+price: '1.00'
 order: 1
 featured: true
 template: product
