@@ -1,6 +1,6 @@
 ---
 id: '5'
-title: Heart Doily Earrings
+title: Love  Earrings
 description: '[DESCRIPTION N/A]'
 price: '10.00'
 order: 1
