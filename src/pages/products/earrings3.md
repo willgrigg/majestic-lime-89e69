@@ -2,10 +2,9 @@
 id: '3'
 title: Dainty Doliy Earrings
 description: >-
-  Take a trip back to swapping valentine's at school with the lovely little
-  accessories. Each pair is uniquely hand painted with red and white heart
-  accents on a sweet pink background. Made with poplar wood and  iron earring
-  hooks.
+  Turn the cuteness level up to a 100 with these pink earrings that resemble the
+  valentine of yesteryear. Made with hand painted poplar wood and iron earring
+  hooks. 
 price: '15.00'
 order: 1
 featured: true
