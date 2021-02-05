@@ -1,7 +1,11 @@
 ---
 id: '5'
 title: Love Note Earrings
-description: '[DESCRIPTION N/A]'
+description: >-
+  Go back to swapping valentine's at school with these lovely little
+  accessories. Each pair is uniquely hand painted with red and white heart
+  accents on a sweet pink background. Made with poplar wood and  iron earring
+  hooks.
 price: '10.00'
 order: 1
 featured: true
