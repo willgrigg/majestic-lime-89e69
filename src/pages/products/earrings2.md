@@ -3,7 +3,7 @@ id: '2'
 title: Forever and Always Earrings
 description: >-
   Classic red hearts that will pop with any outfit. ✔Date Night Dress   ✔Fav red
-  skirt   ✔Saturday's Sweats Made with poplar wood and  iron earring hooks.
+  skirt   ✔Saturday's Sweats. Made with poplar wood and  iron earring hooks.
 price: '10.00'
 order: 1
 featured: true
