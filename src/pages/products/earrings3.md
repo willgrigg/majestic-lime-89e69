@@ -1,6 +1,6 @@
 ---
 id: '3'
-title: Love Note Earrings
+title: Dainty Doli Earrings
 description: >-
   Take a trip back to swapping valentine's at school with the lovely little
   accessories. Each pair is uniquely hand painted with red and white heart
