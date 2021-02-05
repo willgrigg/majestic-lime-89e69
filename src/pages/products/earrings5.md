@@ -1,6 +1,6 @@
 ---
 id: '5'
-title: Love  Earrings
+title: Love Note Earrings
 description: '[DESCRIPTION N/A]'
 price: '10.00'
 order: 1
