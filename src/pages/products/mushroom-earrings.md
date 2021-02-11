@@ -1,7 +1,7 @@
 ---
 id: '7'
 title: Mushroom Heart Earrings
-description: ' Made with poplar wood and  iron earring hooks.'
+description: Cottagecore style  Made with poplar wood and  iron earring hooks.
 price: '10.00'
 order: 1
 featured: true
