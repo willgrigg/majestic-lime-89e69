@@ -6,7 +6,7 @@ description: >-
   with poplar wood and  iron earring hooks.
 price: '20.00'
 order: 1
-featured: false
+featured: true
 template: product
 default_original_image: images/20210211_152708.jpg
 category: src/pages/category/jewelry.md
