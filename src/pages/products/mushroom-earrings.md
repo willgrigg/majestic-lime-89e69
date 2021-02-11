@@ -3,7 +3,7 @@ id: '7'
 title: Mushroom Heart Earrings
 description: >-
   Cottagecore style Mushroom earrings, each uniquelyhand painted and wood burned
-  design. Made with poplar wood and  iron earring hooks.
+  design. Made with poplar wood and  iron earring hooks. 
 price: '20.00'
 order: 1
 featured: true
