@@ -1,5 +1,4 @@
 ---
-id: '1'
 title: ' Fun and Flirty Earrings'
 description: >-
   These pink glitter hearts are sure to turn heads. Pair them with your favorite
