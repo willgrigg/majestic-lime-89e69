@@ -1,6 +1,5 @@
 ---
 id: '3'
-title: Dainty Doily Earrings
 description: >-
   Turn the cuteness level up to a 100 with these pink earrings that resemble the
   valentine of yesteryear. Made with hand painted poplar wood and iron earring
