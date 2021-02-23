@@ -10,7 +10,6 @@ order: 1
 featured: true
 template: product
 default_original_image: images/4.jpg
-default_thumbnail_image: images/4.jpg
 ---
 # Plant earrings
 
