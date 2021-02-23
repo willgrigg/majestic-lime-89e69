@@ -6,6 +6,7 @@ description: >-
 order: 1
 featured: true
 template: product
+title: What
 ---
 # Plant earrings
 
