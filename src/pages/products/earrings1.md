@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 0
 featured: true
 template: product
 default_original_image: images/3.jpg
