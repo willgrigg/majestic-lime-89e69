@@ -1,5 +1,4 @@
 ---
-price: '10.00'
 order: 1
 featured: true
 template: product
