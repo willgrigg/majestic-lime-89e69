@@ -6,9 +6,9 @@ sections:
     section_id: hero_section
     background_image_opacity: 50
     content: |
-      # *...and handcrafted with love.*
+      # *handcrafted with love.*
 
-      Take a look at my current collection!
+      Lunar Collection coming March 2021
     actions:
       - title: See all items
         url: /store
