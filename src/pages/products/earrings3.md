@@ -11,6 +11,7 @@ template: product
 default_original_image: images/Commissions.png
 category: src/pages/category/jewelry.md
 default_thumbnail_image: images/Commissions.png
+id: '1'
 ---
 # Plant earrings
 
