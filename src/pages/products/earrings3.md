@@ -11,7 +11,7 @@ featured: true
 template: product
 default_original_image: images/4.jpg
 category: src/pages/category/jewelry.md
-default_thumbnail_image: images/4.jpg
+default_thumbnail_image: images/Commissions.png
 ---
 # Plant earrings
 
