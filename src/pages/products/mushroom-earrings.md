@@ -1,6 +1,6 @@
 ---
 title: Koray Bracelet
-description: Coming Soob
+description: Coming Soon
 price: '20.00'
 order: 1
 featured: true
