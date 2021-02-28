@@ -6,7 +6,7 @@ description: >-
   phases of the moon and put together to dangle beautifully.  Made with poplar
   wood and  iron earring hooks.
 price: '20.00'
-order: 1
+order: 0
 featured: true
 template: product
 default_original_image: images/2.jpg
