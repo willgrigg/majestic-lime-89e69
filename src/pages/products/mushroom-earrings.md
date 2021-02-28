@@ -1,8 +1,6 @@
 ---
 title: Koray Bracelet
-description: >-
-  Cottagecore style Mushroom earrings, each with a uniquely hand painted and
-  wood burned design. Made with poplar wood and  iron earring hooks. 
+description: Coming Soob
 price: '20.00'
 order: 1
 featured: true
