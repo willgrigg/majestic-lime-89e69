@@ -1,6 +1,5 @@
 ---
 id: '5'
-title: Love Note Earrings
 description: >-
   Go back to swapping valentine's at school with these lovely little
   accessories. Each pair is uniquely hand painted with red and white heart
