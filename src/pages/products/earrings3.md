@@ -1,6 +1,6 @@
 ---
 title: Commission Piece
-price: '15.00'
+price: '15'
 order: 1
 featured: true
 template: product
