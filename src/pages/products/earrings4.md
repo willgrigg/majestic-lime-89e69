@@ -2,7 +2,7 @@
 id: '4'
 title: Amaris Necklace
 description: Coming Soon.
-price: '15.00'
+price: '0.00'
 order: 1
 featured: true
 template: product
