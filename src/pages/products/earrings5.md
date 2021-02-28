@@ -1,7 +1,7 @@
 ---
 id: '5'
 description: Coming Soon.
-price: '15.00'
+price: '30'
 order: 1
 featured: true
 template: product
