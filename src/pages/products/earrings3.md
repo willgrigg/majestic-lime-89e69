@@ -1,5 +1,4 @@
 ---
-id: '3'
 title: Commission Piece
 description: >-
   Turn the cuteness level up to a 100 with these pink earrings that resemble the
