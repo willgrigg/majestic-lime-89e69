@@ -1,7 +1,7 @@
 ---
 id: '2'
 title: Koray Earrings
-description: ' Made with poplar wood and  iron earring hooks.'
+description: Koray" Made with poplar wood and  iron earring hooks.
 price: '10.00'
 order: 1
 featured: true
