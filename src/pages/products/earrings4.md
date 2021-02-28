@@ -1,6 +1,6 @@
 ---
 id: '4'
-title: v
+title: Valentine Butterfly Earrings
 description: >-
   You are looking fly! Need some earrings to match? These cuties set our hearts
   "aflutter" with fun red and white designs hand painted on a pink background.
