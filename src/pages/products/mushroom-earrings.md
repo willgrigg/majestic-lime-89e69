@@ -1,5 +1,5 @@
 ---
-title: Mushroom Heart Earrings
+title: Koray Bracelet
 description: >-
   Cottagecore style Mushroom earrings, each with a uniquely hand painted and
   wood burned design. Made with poplar wood and  iron earring hooks. 
