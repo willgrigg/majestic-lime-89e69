@@ -10,6 +10,7 @@ template: product
 default_original_image: images/3.jpg
 category: src/pages/category/jewelry.md
 default_thumbnail_image: images/3.jpg
+id: '11'
 ---
 # Plant earrings
 
