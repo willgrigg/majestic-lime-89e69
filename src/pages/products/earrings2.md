@@ -2,8 +2,8 @@
 id: '2'
 title: Koray Earrings
 description: >-
-  "Koray" Turkish meaning ember moon  Made with poplar wood and  iron earring
-  hooks.
+  "Koray" Turkish meaning ember moon, these earrings   Made with poplar wood
+  and  iron earring hooks.
 price: '10.00'
 order: 1
 featured: true
