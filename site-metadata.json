@@ -1,7 +1,7 @@
 {
     "favicon": "images/futuristic-velociraptor.png",
     "logo_light": "images/madebymikaylanew.png",
-    "bg_image_primary_opacity": 0,
+    "bg_image_primary_opacity": 60,
     "snipcart_api_key": "MTYxZmNkZmItYjI2Ny00Yzk0LWFjOWEtYTRhN2NhN2ZiOGY0NjM3NDc5MDQ2MDg5Nzk3NDIx",
     "footer_text": "",
     "palette": "green",
