@@ -8,6 +8,7 @@ template: product
 default_original_image: images/Coming Soon.jpg
 category: src/pages/category/jewelry.md
 default_thumbnail_image: images/Coming Soon.jpg
+price: '25'
 ---
 # Plant earrings
 
