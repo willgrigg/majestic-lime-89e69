@@ -1,5 +1,5 @@
 ---
-title: ' Fun and Flirty Earrings'
+title: Channary Wall Hanging
 description: >-
   These pink glitter hearts are sure to turn heads. Pair them with your favorite
   frock and get to flirting! Made with poplar wood and  iron earring hooks
