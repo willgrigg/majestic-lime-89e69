@@ -1,5 +1,4 @@
 ---
-id: '7'
 title: Mushroom Heart Earrings
 description: >-
   Cottagecore style Mushroom earrings, each with a uniquely hand painted and
