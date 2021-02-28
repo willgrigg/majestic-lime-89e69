@@ -1,7 +1,7 @@
 ---
 title: Channary Wall Hanging
 description: Coming Soon.
-price: '10.00'
+price: '30'
 order: 1
 featured: true
 template: product
