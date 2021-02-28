@@ -8,6 +8,7 @@ default_thumbnail_image: images/Commissions.jpg
 id: '1'
 title: Digital Lunar Calendar Print
 description: Coming Soon
+price: '5'
 ---
 # Plant earrings
 
