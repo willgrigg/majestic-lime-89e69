@@ -9,7 +9,7 @@ price: '15.00'
 order: 1
 featured: true
 template: product
-default_original_image: images/4.jpg
+default_original_image: images/Commissions.png
 category: src/pages/category/jewelry.md
 default_thumbnail_image: images/Commissions.png
 ---
