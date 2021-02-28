@@ -14,7 +14,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-    background_image: images/20210211_152708.jpg
+    background_image: images/parallel-chili.jpg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Featured Items
