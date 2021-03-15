@@ -23,5 +23,6 @@ sections:
     featured_products:
       - src/pages/products/earrings2.md
       - src/pages/products/earrings5.md
+      - src/pages/products/product-opezdedn8.md
 template: home
 ---
