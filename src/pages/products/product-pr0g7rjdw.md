@@ -2,6 +2,7 @@
 order: 0
 featured: false
 template: product
+price: '1'
 ---
 ## Lorem ipsum
 
