@@ -1,6 +1,5 @@
 ---
 id: '5'
-description: Coming Soon.
 price: '30'
 order: 1
 featured: true
