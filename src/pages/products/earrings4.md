@@ -11,7 +11,7 @@ price: '25'
 description: >-
   Amaris meaning moon child, With the phases of the moon hand-burned beautifully
   into poplar wood with a silver plated chain. Adjustable to size.  Please allow
-  1 
+  1 to 2 wekks processing
 ---
 # Plant earrings
 
