@@ -21,7 +21,6 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - src/pages/products/earrings1.md
       - src/pages/products/earrings2.md
       - src/pages/products/earrings3.md
 template: home
