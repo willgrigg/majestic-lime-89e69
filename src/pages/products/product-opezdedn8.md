@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: DOuble oops how do you mess up twice mik?
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
