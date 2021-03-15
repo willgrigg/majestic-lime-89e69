@@ -8,7 +8,7 @@ default_original_image: images/Coming Soon.jpg
 category: src/pages/category/jewelry.md
 default_thumbnail_image: images/20210314_160200.jpg
 price: '25'
-description: Please allow 3-4 weeks for processing.
+description: Amaris meaning Please allow 3-4 weeks for processing.
 ---
 # Plant earrings
 
