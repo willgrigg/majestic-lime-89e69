@@ -1,7 +1,6 @@
 ---
 id: '4'
 title: Amaris Necklace
-description: Coming Soon.
 order: 1
 featured: true
 template: product
