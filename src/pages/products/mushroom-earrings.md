@@ -1,6 +1,11 @@
 ---
 title: Koray Bracelet
-description: Coming Soon
+description: >-
+  Koray Earrings. Items may take up to three weeks to process, for inventory and
+  crafting.              "Koray" Turkish meaning ember moon, these earrings are
+  handburned with the phases of the moon and put together to dangle
+  beautifully.  Made with poplar wood and  iron earring hooks. Please allow 3-4
+  weeks for processing. 
 price: '20'
 order: 1
 featured: true
