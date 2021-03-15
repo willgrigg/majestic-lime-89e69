@@ -1,6 +1,6 @@
 ---
 id: '3'
-title: Pre-Order Koray Earrings
+title: Koray Earrings
 description: >-
   Pre-Order for Koray Earrings. Items may take up to three weeks to process, for
   inventory and crafting.                                   "Koray" Turkish
