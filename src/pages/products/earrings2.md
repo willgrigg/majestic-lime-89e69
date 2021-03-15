@@ -4,7 +4,7 @@ title: Koray Earrings
 description: >-
   "Koray" Turkish meaning ember moon, these earrings are handburned with the
   phases of the moon and put together to dangle beautifully.  Made with poplar
-  wood and  iron earring hooks. Please allow  weeks for processing. 
+  wood and  iron earring hooks. Please allow 2-3 weeks for processing. 
 price: '30'
 order: 0
 featured: true
