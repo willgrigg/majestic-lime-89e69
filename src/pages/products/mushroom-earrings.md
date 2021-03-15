@@ -4,7 +4,7 @@ description: >-
   "Koray" Turkish meaning ember moon, these bracelet is handburned with the
   phases of the moon and put together to dangle beautifully.  Made with poplar
   wood and silver plated chain. Please allow 2-3 weeks for processing. 
-price: '20'
+price: '25'
 order: 1
 featured: true
 template: product
