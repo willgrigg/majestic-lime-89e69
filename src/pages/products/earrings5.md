@@ -8,7 +8,7 @@ default_original_image: images/20210314_160047.jpg
 category: src/pages/category/jewelry.md
 default_thumbnail_image: images/20210314_160047.jpg
 title: Channary Necklace
-description: Channary"
+description: '"Channary"'
 ---
 # Plant earrings
 
