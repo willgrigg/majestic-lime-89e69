@@ -23,6 +23,5 @@ sections:
     featured_products:
       - src/pages/products/earrings2.md
       - src/pages/products/earrings3.md
-      - src/pages/products/product-pr0g7rjdw.md
 template: home
 ---
