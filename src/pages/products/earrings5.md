@@ -7,7 +7,7 @@ featured: true
 template: product
 default_original_image: images/Coming Soon.jpg
 category: src/pages/category/jewelry.md
-default_thumbnail_image: images/Coming Soon.jpg
+default_thumbnail_image: images/20210314_160047.jpg
 title: Channary Necklace
 ---
 # Plant earrings
